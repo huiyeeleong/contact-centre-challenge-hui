@@ -19,3 +19,6 @@ python3 main.py
 
 ### Run the test:
 python3 test_string_search.py
+
+### Sample Run:
+<img width="1159" height="363" alt="Screenshot 2025-07-14 at 7 25 44 pm" src="https://github.com/user-attachments/assets/efff5685-c34b-4cce-bf8b-f714969a49c4" />
